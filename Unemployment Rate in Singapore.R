@@ -1,3 +1,7 @@
+install.packages("tidyverse")
+
+library(tidyverse)
+
 
 unemploy <- read_csv("unn rate.csv")
 
